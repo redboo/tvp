@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Добро пожаловать](README.md)
-* [Общая Семантика](gs.md)
+* [Общая Семантика](gs/README.md)
+  * [Книги](gs/gs-books.md)
 * [Linux](linux/README.md)
   * [Linux](linux/linux.md)
   * [Ubuntu](linux/ubuntu/README.md)
