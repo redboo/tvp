@@ -1,4 +1,4 @@
-# Inbox
+# Linux
 
 * Here you can write disorganised notes to be categorised later
 * Bullet points are useful, but it could be free form text as well
@@ -6,8 +6,8 @@
 * But don't let this list get too long
 * Move information to more specific documents and link to them.
   * This helps you navigate between documents quickly
-  * For example, you can `Cmd`+`Click` this: \[[todo](todo.md)\]
-* Some notes don't end up making sense the next day [linux](linux/linux.md)
+  * For example, you can `Cmd`+`Click` this: [inbox](../inbox.md)
+* Some notes don't end up making sense the next day
 * That's ok, you can just delete them!
   * You can always find them in your git history, if you really need it!
 
