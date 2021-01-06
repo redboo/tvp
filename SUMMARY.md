@@ -31,6 +31,9 @@
   * [Книги](gs/gs-books.md)
 * [Linux](linux/README.md)
   * [Ubuntu](linux/ubuntu.md)
+* [Unsorted](unsorted/README.md)
+  * [Agile](unsorted/agile.md)
+  * [Markdown](unsorted/markdown.md)
 * [Todo \(Cделать\)](todo.md)
 * [Inbox \(Предложения\)](inbox.md)
 
