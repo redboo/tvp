@@ -32,6 +32,7 @@
 * [Linux](linux/README.md)
   * [Ubuntu](linux/ubuntu.md)
 * [Unsorted](unsorted/README.md)
+  * [Что такое экстенсиональность?](unsorted/chto-takoe-ekstensionalnost.md)
   * [Agile](unsorted/agile.md)
   * [Markdown](unsorted/markdown.md)
 * [Todo \(Cделать\)](todo.md)
