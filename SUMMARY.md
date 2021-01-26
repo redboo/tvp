@@ -35,6 +35,7 @@
   * [Что такое экстенсиональность?](unsorted/chto-takoe-ekstensionalnost.md)
   * [Agile](unsorted/agile.md)
   * [Markdown](unsorted/markdown.md)
+  * [Манипуляция](unsorted/manipulyaciya.md)
 * [Todo \(Cделать\)](todo.md)
 * [Inbox \(Предложения\)](inbox.md)
 
