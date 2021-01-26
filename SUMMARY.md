@@ -36,6 +36,7 @@
   * [Agile](unsorted/agile.md)
   * [Markdown](unsorted/markdown.md)
   * [Манипуляция](unsorted/manipulyaciya.md)
+  * [Стоицизм](unsorted/stoicizm.md)
 * [Todo \(Cделать\)](todo.md)
 * [Inbox \(Предложения\)](inbox.md)
 
