@@ -6,5 +6,7 @@
 
 [История успеха национал-социализма](https://www.youtube.com/watch?v=f_rjtcJH51Y)
 
+[Про манипуляцию во благо и психологию](https://pikabu.ru/story/pro_manipulyatsiyu_vo_blago_i_psikhologiyu_6461719)
+
 
 
