@@ -36,7 +36,9 @@
   * [Agile](unsorted/agile.md)
   * [Markdown](unsorted/markdown.md)
   * [Манипуляция](unsorted/manipulyaciya.md)
-  * [Стоицизм](unsorted/stoicizm.md)
+  * [Стоицизм](unsorted/stoicizm/README.md)
+    * [Александр Саликов: Стоицизм – это не вера, стоицизм – это философия](unsorted/stoicizm/aleksandr-salikov-stoicizm-eto-ne-vera-stoicizm-eto-filosofiya.md)
+    * [Стоицизм: какие книги почитать](unsorted/stoicizm/stoicizm-kakie-knigi-pochitat.md)
 * [Todo \(Cделать\)](todo.md)
 * [Inbox \(Предложения\)](inbox.md)
 
