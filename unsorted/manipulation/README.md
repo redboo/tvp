@@ -4,6 +4,8 @@
 
 [Ноам Хомский: 10 способов управления массами](https://youtu.be/t5sjvCnU_8c?t=21)
 
+[СОЦИАЛЬНАЯ ИНЖЕНЕРИЯ: МАНИПУЛЯЦИЯ ЧЕЛОВЕЧЕСКИМИ ЭМОЦИЯМИ , СТРАХАМИ И СЛАБОСТЯМИ](https://youtu.be/CgTwtINvmiM)
+
 [История успеха национал-социализма](https://www.youtube.com/watch?v=f_rjtcJH51Y)
 
 [Про манипуляцию во благо и психологию](https://pikabu.ru/story/pro_manipulyatsiyu_vo_blago_i_psikhologiyu_6461719)
@@ -23,6 +25,8 @@
 [Психология манипуляции и подчинения \| Николя Геген](https://youtu.be/4IWliyl3HyE)
 
 [Искусство манипуляции \| Хенрик Фексеус](https://youtu.be/QX0tQjf1cZ4)
+
+[Игра во власть \| Хенрик Фексеус](https://youtu.be/YjdydD78u2Y)
 
 [ПСИХОЛОГИЯ ВЛИЯНИЯ \(Книга за 30 минут. Часть 1\)](https://youtu.be/CSX2c8tdwqk)
 
